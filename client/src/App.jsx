@@ -12,6 +12,8 @@ import FriendsPending from "./components/Friends/FriendsPending";
 import FriendsNew from "./components/Friends/FriendsNew";
 import Chat from "./components/Chat/Chat";
 
+// This is hte solutions what I've mentioned at that time.
+
 export default function App() {
   return (
     <>
